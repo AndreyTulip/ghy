@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>привет</title>
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+		<header></header>
+		<main>
+			<table>
+<tr>
+<td>Привет</td>
+<td>Пока</td>
+</tr>
+</table>
+		</main>
+		<footer></footer>
+	</body>
+</html>
